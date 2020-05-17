@@ -6,18 +6,4 @@
 
 수정해보기
 
-이미지 넣기
 ![테스트 이미지](.images/test.png)
-
-이미지 넣기2
-![테스트 이미지](.images/test2.jpg)
-
-이미지야 왜 안되니
-![나오너라] (.images/test.png)
-
-뭐가 문제니
-![나와라 이미지] (.images/test2.jpg)
-
-Enter 두번 해보기
-
-![나오라] (.images/test2.jpg)
