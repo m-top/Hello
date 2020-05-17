@@ -8,3 +8,6 @@
 
 이미지 넣기
 ![테스트 이미지](.images/test.png)
+
+이미지 넣기2
+![테스트 이미지](.images/test2.jpg)
