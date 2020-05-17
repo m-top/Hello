@@ -15,3 +15,5 @@
 이미지야 왜 안되니
 ![나오너라] (.images/test.png)
 
+뭐가 문제니
+![나와라 이미지] (.images/test2.jpg)
