@@ -12,12 +12,15 @@
 이미지 넣기2
 ![테스트 이미지](.images/test2.jpg)
 
-이미지야 왜 안되니
+이미지야 왜 안되니 띄어써보자
 ![나오너라] (.images/test.png)
 
-뭐가 문제니
+뭐가 문제니 띄어쓰고 확장자문제니
 ![나와라 이미지] (.images/test2.jpg)
 
 Enter 두번 해보기
 
 ![나오라] (.images/test2.jpg)
+
+Enter 두번하고 띄어쓰기 없애보자
+![어잇!](.images/test2.jsp)
